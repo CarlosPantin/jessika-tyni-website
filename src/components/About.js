@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import mypicture from "../assets/MyPicture-modified.png";
+import mypicture from "../assets/Jessika-modified.png";
 
 const About = () => {
   return (
@@ -65,7 +65,7 @@ const About = () => {
                 <li>Self Improvement</li>
 
               </ul>
-              <p className="card-text">I love to program and I trully believe that with my personal and technology skill sets, I am ready to apply all of my strengths and skills into the professional world.</p>
+             
             </div>
           </div>
         </div>

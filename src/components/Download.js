@@ -1,5 +1,5 @@
 import React from 'react';
-import myCV from "../assets/MyCV.pdf";
+import myCV from "../assets/Jessika-Tyni-Cv.pdf";
 
 
 function Download() {
