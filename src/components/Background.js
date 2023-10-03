@@ -10,15 +10,14 @@ const Background = () => {
         </div>
         <div className="col-2"></div>
         <div className="col-3">
-          <h2>Häme University of Applied Sciences (2020-2023)</h2>
-          <h3>Bachelors Degree Computer Applications</h3>
+          <h2>Häme University of Applied Sciences (2021-2024)</h2>
+          <h3>Bachelors Degree in Business Administration</h3>
           <p className="background-information">
-            During my studies, I learned a wide variety of technologies both for
-            front-end and back-end approaches ranging from the basics such as
-            HTML, CSS to more complex approaches like game development, AI,
-            Cloud among others. Also, we had an ICT project in which together
-            with a team, we had to solve an actual problem for a client, in this
-            case, we worked together with Valio.
+            In my studies I have focused on marketing and business development.
+            The first year of my studies I noticed that I really have passion
+            towards marketing and creative work. I am very interested in all
+            types of projects as well. During my studies I have done multiple
+            projects offering solutions to companies real life problems.
           </p>
         </div>
         <div className="col-4"></div>
@@ -31,10 +30,25 @@ const Background = () => {
         </div>
         <div className="col-2"></div>
         <div className="col-3">
-          <h2>Junction 2023 Helsinki (November 10th-12th)</h2>
-          <h3>Hackathon</h3>
-          <p>
-           (To be Filled)
+          <h2>Business Administration Internship (14.11.2022-14.4.2023)</h2>
+          <h3>Hämeen ammattikorkeakoulu Oy</h3>
+          <p className="background-information">
+            During my internship I have learned to use multiple Adobe Creative
+            Cloud softwares such as Illustrator and Indesign. Currently I have
+            been running a marketing campaign for one of the courses and I have
+            done various materials for it. For the campaign I have designed and
+            made a sticker in Illustrator, designed a new theme and a new logo
+            for it, edited an ad and made a lot of content for social media.
+          </p>
+          <br />
+          <p className="background-information">
+            I have also written multiple blog texts, content for social media
+            and currently I am also part of making and editing a video for the
+            campaign. Part of my tasks as an intern I have also been part of
+            coordinating a foorum for Janakkala and helped with other projects.
+            In addition to everything else I have learned to utilize Miro and
+            Canva platforms, and use photoshop. Also I know how to operate basic
+            Office softwares such as Powerpoint.
           </p>
         </div>
         <div className="col-4"></div>

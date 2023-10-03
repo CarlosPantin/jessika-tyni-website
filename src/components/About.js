@@ -15,41 +15,20 @@ const About = () => {
             <h2>About Me</h2>
 
             <p className="aboutme-text">
-              Hello, I'm Carlos Pantin. I'm a passionate developer with a love
-              for creating interactive and user-friendly web applications. I
-              enjoy working with technologies like React, HTML, CSS, Javascript
-              among others to build beautiful and responsive websites.
+              I'm a final year Business Administration student from Häme
+              University Of Applied Sciences, who dreams of a career in business
+              development and marketing. The first year of my studies I noticed
+              that I really have passion towards marketing and creative work. I
+              am very interested in all types of projects as well. I am alwas
+              looking for opportunities to broaden my knowledge on my field and
+              learn about new things.
             </p>
-            <p className="aboutme-text">
-              When I'm not coding, I love to learn more about new coding
-              practices and I love to keep a healthy body with working out. Feel
-              free to explore my portfolio to see some of my recent projects.
-            </p>
+           
           </div>
           <div className="col-4"></div>
         </div>
-        <h2 className="sys">Skills and Interests</h2>
+        <h2 className="sys">Personal Strengths</h2>
         <div className="row">
-          <div className="col-1">
-            <div className="skill-card">
-              <h3>Technologies</h3>
-              <ul>
-                <li>JavaScript</li>
-                <li>React</li>
-                <li>CSS</li>
-                <li>HTML</li>
-                 <li>MySQL</li>
-                <li>C#</li>
-                <li>Git</li>
-                <li>Python</li>
-                <li>PHP</li>
-
-              </ul>
-              <p className="card-text">I have learned plenty of new technologies and I am always aiming to learn new stuff!
-              I feel more confident with Javascript and some of it's frameworks like React but I am also well aquainted with other technologies and approaches.</p>
-            </div>
-            
-          </div>
           <div className="col-2">
             <div className="skill-card">
               <h3>Person</h3>
@@ -63,9 +42,8 @@ const About = () => {
                 <li>Attitude</li>
                 <li>Focused</li>
                 <li>Self Improvement</li>
-
+                <li>Organisation Skills</li>
               </ul>
-             
             </div>
           </div>
         </div>

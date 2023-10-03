@@ -1,66 +1,49 @@
 import React from "react";
 import "./Projects.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import train from "../assets/train.jpg";
 
 const Projects = () => {
-  const projects = [
-    {
-      title: "ToDo App",
-      description:
-        "Simple ToDo app. The user can add, delete, edit and mark as done tasks of their choice!",
-      status: "https://todoproject-coral.vercel.app/",
-      github: "https://github.com/CarlosPantin/todoproject",
-    },
-    {
-      title: "Weather App",
-      description:
-        "It happens to me that when I want to check the weather on my phone, the apps take a bit to load and have ads, so I deciced to make my own!",
-      status: "https://weatherapp-self-two.vercel.app/",
-      github: "https://github.com/CarlosPantin/my-weather-app",
-    },
-    {
-      title: "Spotify Information",
-      description:
-        "I created an app in which the user can see their top artists, top songs and some data of their profile info all year long using spotify API. Unfortunately, thanks to the way in which spotify developer dashboard works, only registered users can test the app.",
-      status: "https://www.youtube.com/watch?v=xsWV8AcXar8",
-      github: "https://github.com/CarlosPantin/spotify-app",
-    },
-    {
-      title: "TicTacToe",
-      description:
-        "My girlfriend suggested that I make a TicTacToe game that we can use together, so I made one! It's a simple local TicTacToe game.",
-      status: "https://tic-tac-toe-cp.vercel.app/",
-      github: "https://github.com/CarlosPantin/tic-tac-toe",
-    },
-  ];
-
   return (
     <section id="projects" className="projects-section">
-      <h2 className="section-title">Projects (more in development)</h2>
+      <h2 className="section-title">Skills and Technologies</h2>
       <div className="projects-container">
-        {projects.map((project, index) => (
-          <div key={index} className="project-card">
-            <h3>{project.title}</h3>
-            <p>{project.description}</p>
-            <p>
-              <a href={project.status}>Click to view</a>
-            </p>
-            <a href={project.github}>
-              <FontAwesomeIcon icon={faGithub} />
-            </a>
-          </div>
-        ))}
         <div className="project-card">
-          <h3>Chat App</h3>
+          <h3>Adobe Illustrator</h3>
           <p>
-            A fullstack chat app. The user inputs a username and room id and if
-            someone else enters the same room id, they're both connected!
+            I designed and executed an icon for a marketing campaign and as well
+            as a overall badge
           </p>
-          <p>Awaiting Deployment</p>
-          <a href="https://github.com/CarlosPantin/cp-chat-application">
-            <FontAwesomeIcon icon={faGithub} />
-          </a>
+          <img src={train} alt="Train" className="train-image" />
+        </div>
+
+        <div className="project-card">
+          <h3>Marketing Campaign, planning and executing</h3>
+          <p>
+            I was in charge of planning and executing a small marketing campaign
+            for a course in order to get more enrolments on to the course. I
+            also prepared all the materials for the campaign: posters,
+            interviewing videos, posts on social media and held an presentation
+            to a student group about the course.
+          </p>
+        </div>
+
+        <div className="project-card">
+          <h3>Microsoft Office 365</h3>
+          <p>
+            As a student as well as during my internship I have gained a good
+            knowledge and understanding of the different softwares that
+            Microsoft Office 365 offers.
+          </p>
+        </div>
+
+        <div className="project-card">
+          <h3>Adobe InDesign</h3>
+          <p>
+            During my internship I learned to use Adobe InDesign while making
+            changes into already existing marketing material. In addition,
+            during one of my courses, I used Adobe InDesign to make a prototype brochure for a company.
+            
+          </p>
         </div>
       </div>
     </section>
