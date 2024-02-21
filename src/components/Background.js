@@ -34,21 +34,21 @@ const Background = () => {
           <h3>Hämeen ammattikorkeakoulu Oy</h3>
           <p className="background-information">
             During my internship I have learned to use multiple Adobe Creative
-            Cloud softwares such as Illustrator and Indesign. Currently I have
-            been running a marketing campaign for one of the courses and I have
-            done various materials for it. For the campaign I have designed and
-            made a sticker in Illustrator, designed a new theme and a new logo
-            for it, edited an ad and made a lot of content for social media.
+            Cloud softwares such as Illustrator and Indesign. I ran a marketing
+            campaign for one of the courses and I have designed various
+            materials for it. For the campaign I designed and made a sticker in
+            Illustrator, designed a new theme and a new logo for it, edited an
+            ad and made a lot of content for social media.
           </p>
           <br />
           <p className="background-information">
-            I have also written multiple blog texts, content for social media
-            and currently I am also part of making and editing a video for the
-            campaign. Part of my tasks as an intern I have also been part of
-            coordinating a foorum for Janakkala and helped with other projects.
-            In addition to everything else I have learned to utilize Miro and
-            Canva platforms, and use photoshop. Also I know how to operate basic
-            Office softwares such as Powerpoint.
+            I have also written multiple texts, content for social media and I
+            was also part of making and editing a video for the campaign. Part
+            of my tasks as an intern I was also part of coordinating a
+            forum for Janakkala and helped with other projects. In addition to
+            everything else I have learned to utilize Miro and Canva platforms,
+            and use photoshop. Also I know how to operate basic Office softwares
+            such as Powerpoint.
           </p>
         </div>
         <div className="col-4"></div>
