@@ -15,15 +15,14 @@ const About = () => {
             <h2>About Me</h2>
 
             <p className="aboutme-text">
-              I'm a final year Business Administration student from Häme
-              University Of Applied Sciences, who dreams of a career in business
-              development and marketing. The first year of my studies I noticed
-              that I really have passion towards marketing and creative work. I
-              am very interested in all types of projects as well. I am alwas
-              looking for opportunities to broaden my knowledge on my field and
-              learn about new things.
+              I’m a final-year Business Administration student at Häme
+              University of Applied Sciences, with a strong passion for business
+              development and marketing. During my first year of studies, I
+              discovered my enthusiasm for marketing and creative work, which
+              has shaped my career aspirations. I’m highly motivated by the
+              opportunity to work on diverse projects and am always eager to
+              expand my knowledge and learn new things in my field.
             </p>
-           
           </div>
           <div className="col-4"></div>
         </div>

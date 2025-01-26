@@ -32,12 +32,13 @@ const Header = () => {
       <div className="header-content">
         <h1>Jessika Tyni</h1>
         <p>
-          Hello! I'm Jessika, and I'm passionate about creating
-          opportunities for businesses to thrive in today's competitive
-          landscape. With a blend of strategic marketing expertise and business
-          development acumen, I've dedicated my career to driving growth and
-          achieving results. In my portfolio, you'll find a curated collection
-          of skills and projects I have done.
+          Hello! I'm Jessika, a passionate professional dedicated to helping
+          businesses thrive in today’s competitive market. With a strong
+          foundation in strategic marketing and business development, I focus on
+          driving growth and delivering impactful results. In this portfolio,
+          you'll find a curated selection of my work, showcasing the skills and
+          projects that reflect my approach to solving challenges and
+          achieving success.
         </p>
         <div className="buttons">
           <a
