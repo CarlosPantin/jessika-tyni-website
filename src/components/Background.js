@@ -69,8 +69,7 @@ const Background = () => {
       </div>
 
       <div className="row">
-        <div className="col-1">
-        </div>
+        <div className="col-1"></div>
         <div className="col-2"></div>
         <div className="col-3">
           <h2>Conference Assistant (05.10.2022 - 07.10.2022)</h2>
@@ -93,6 +92,39 @@ const Background = () => {
             executing a variety of tasks as needed, showcasing my adaptability
             and versatility in managing the dynamic and fast-paced nature of the
             conference.
+          </p>
+        </div>
+        <div className="col-4"></div>
+      </div>
+
+      <div className="row">
+        <div className="col-1"></div>
+        <div className="col-2"></div>
+        <div className="col-3">
+          <h2>Conference Assistant (19.04.2023 - 21.04.2023)</h2>
+          <p className="background-information">
+            As a conference assistant, I was responsible for assembling and
+            leading a high-performing team, carefully selecting members based on
+            their strengths and ensuring smooth collaboration throughout the
+            event. In the lead-up to and during the conference, I took on the
+            role of team coordinator, guiding the team with strong leadership,
+            proactive problem-solving, and a focus on achieving our goals.
+          </p>
+          <br />
+          <p className="background-information">
+            I played a key role in ensuring effective communication within the
+            team, setting up clear channels and organizing regular meetings to
+            keep everyone aligned on tasks and expectations. My organizational
+            skills were crucial in ensuring that the team stayed on track and
+            that objectives were met efficiently.
+          </p>
+          <br />
+          <p className="background-information">
+            I also contributed to creating a positive and welcoming environment
+            for the event attendees. This involved greeting visitors with
+            enthusiasm, distributing goodie bags, and promptly addressing
+            questions, all while ensuring a high level of customer service and
+            professionalism.
           </p>
         </div>
         <div className="col-4"></div>
